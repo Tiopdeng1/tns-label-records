@@ -1,0 +1,162 @@
+TIME NO SLEEP(TNS) <LABEl>Records</LABEl>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TNS Label Records</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+  <script src="https://kit.fontawesome.com/yourfontawesomekit.js" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header>
+  <nav>
+    <h1>T N S</h1>
+    <ul>
+      <li><a href="#home" class="active">Home</a></li>
+      <li><a href="#about">About</a></li>
+      <li><a href="#rules">Rules</a></li>
+      <li><a href="#services">Services</a></li>
+      <li><a href="#collaborations">Collaborations</a></li>
+      <li><a href="#artists">Artists</a></li>
+      <li><a href="#achievements">Achievements</a></li>
+      <li><a href="#gallery">Gallery</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </nav>
+</header>
+
+<section id="home" class="hero" style="background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('images/banner.jpg') no-repeat center; background-size:cover;">
+  <h1>T N S</h1>
+  <h2>Welcome to TNS Label Records</h2>
+  <p>Founded in 2020 by Kueth Toang aka <b>Kusa Boyo</b>, TNS Label Records discovers and empowers young talented artists.</p>
+  <div class="mottos">
+    <p><strong>Motto 1:</strong> “TIME NO SLEEP.”</p>
+    <p><strong>Motto 2:</strong> “Raising voices, shaping futures.”</p>
+  </div>
+  <div class="social-icons">
+    <a href="#"><i class="fab fa-facebook"></i></a>
+    <a href="#"><i class="fab fa-twitter"></i></a>
+    <a href="#"><i class="fab fa-youtube"></i></a>
+    <a href="#"><i class="fab fa-tiktok"></i></a>
+    <a href="#"><i class="fab fa-instagram"></i></a>
+    <a href="#"><i class="fab fa-spotify"></i></a>
+  </div>
+</section>
+
+<section id="about">
+  <h2>About TNS Label Records</h2>
+  <p>TNS Label Records was co-founded in 2020 by <b>Kueth Toang (Kusa Boyo)</b>. We discover, nurture, and promote young talented artists to unlock their full potential.</p>
+  <p>Our mission is to empower creativity and build a future for African music on the global stage.</p>
+</section>
+
+<section id="rules">
+  <h2>Rules & Responsibilities</h2>
+  <h3>Artist Commitments</h3>
+  <ul>
+    <li>Professionalism & Respect in all interactions.</li>
+    <li>Engage creatively while respecting the label's vision.</li>
+    <li>Meet deadlines for songs, rehearsals, and promotions.</li>
+    <li>Positive social media conduct aligned with label values.</li>
+    <li>Confidentiality of projects and collaborations.</li>
+    <li>Comply with contracts, including exclusivity and revenue sharing.</li>
+    <li>Prioritize health and readiness for performances.</li>
+    <li>Align personal branding with TNS Label Records’ image.</li>
+    <li>Financial transparency regarding label-related activities.</li>
+    <li>Continuous skill development and training participation.</li>
+  </ul>
+  <h3>Label Commitments</h3>
+  <ul>
+    <li>Artist development: mentorship, producers, songwriters access.</li>
+    <li>Marketing & promotion: digital campaigns, media outreach.</li>
+    <li>Transparent financial reporting for artists.</li>
+    <li>Legal support for fair contracts and disputes.</li>
+    <li>Touring & performance opportunities with full support.</li>
+    <li>Merchandise & branding guidance.</li>
+    <li>Conflict resolution process.</li>
+    <li>Health & safety during label activities.</li>
+    <li>Open communication and updates.</li>
+    <li>Long-term career planning & global exposure.</li>
+  </ul>
+</section>
+
+<section id="services">
+  <h2>Talent Incubation & Services</h2>
+  <ul>
+    <li>Artist discovery and development</li>
+    <li>Music recording and production</li>
+    <li>Artist management</li>
+    <li>Music promotion and marketing</li>
+    <li>Concert and event organization</li>
+    <li>Collaboration opportunities with African & global artists</li>
+    <li>Digital distribution (Spotify, YouTube, Apple Music, etc.)</li>
+    <li>Branding and image consultation</li>
+    <li>Talent training workshops &
+
+Tiop Deng Tiap, [9/2/2025 10:01 PM]
+stage coaching</li>
+    <li>Merchandise development and online sales</li>
+  </ul>
+</section>
+
+<section id="collaborations">
+  <h2>Collaborations & Partnerships</h2>
+  <p>TNS Label Records partners with regional and global artists, brands, and media platforms to create new opportunities and amplify the impact of our music.</p>
+</section>
+
+<section id="artists">
+  <h2>Our Artists</h2>
+  <ul>
+    <li style="margin-bottom:15px;"><span style="color:#ff6600; font-weight:bold;">Solido Boy</span> – "The Nephew" | Hits: <span style="color:#00bfff;">Nyal Ca nen goay</span>, <span style="color:#00bfff;">Man gatda.</span></li>
+    <li style="margin-bottom:15px;"><span style="color:#ff4500; font-weight:bold;">King Siedee</span> – "The Handsome Artist in Town" | Hits: <span style="color:#32cd32;">Ciang,Min goore, ci kam nhok and also featured with lil slim</span>, <span style="color:#32cd32;">More Hits On their Way.</span></li>
+    <li style="margin-bottom:15px;"><span style="color:#9400d3; font-weight:bold;">Koal</span> – "The Stronger Artist in Town" | Hits: <span style="color:#ff1493;">Han Kone Ji,kuacja yek And More Hits on thier way.</span></li>
+    <li style="margin-bottom:15px;"><span style="color:#ffd700; font-weight:bold;">Kusa Boyo</span> – "The Uncle" | Hits: <span style="color:#ff8c00;">TNGG</span>, <span style="color:#ff8c00;">Locda Ka Ji, lanyi ken dial featuring Solido Boy And More.</span></li>
+  </ul>
+</section>
+
+<section id="achievements">
+  <h2>Achievements</h2>
+  <ul>
+    <li>🏆 Winner at <span style="color:#ff6600; font-weight:bold;">Gambella Got Talent Show</span></li>
+    <li>🎖 Recognized by <span style="color:#32cd32; font-weight:bold;">Ethiopian Culture and Tourism</span></li>
+    <li>🎵 Kusa Boyo Featured with South Sudanese artist <span style="color:#00bfff; font-weight:bold;">Koko Debest</span> in “We Are Moving”</li>
+    <li>🤝 Kusa boyo Collaborated in <span style="color:#ff1493; font-weight:bold;">South Sudan All Stars</span> project “We Need Peace”</li>
+    <li>🔥 Multiple hit songs released by label artists and the label is doing the best to release more and show the talent of these artsits to the world</li>
+  </ul>
+</section>
+
+<section id="gallery">
+  <h2>Gallery</h2>
+  <div class="gallery">
+    <div>
+      <img src="images/mic_performance.jpg" alt="Performance with Microphone">
+      <i class="fas fa-microphone" style="position:absolute; top:10px; left:10px; color:#ff6600; font-size:24px;"></i>
+    </div>
+    <img src="images/studio_dark_person.jpg" alt="Studio Session">
+    <img src="images/ethiopia_map_logo.jpg" alt="Ethiopia Map Logo">
+  </div>
+</section>
+
+<section id="contact">
+  <h2>Contact Us</h2>
+  <p>Email: <a href="mailto:tnsentertainment3@gmail.com">tnsentertainment3@gmail.com</a></p>
+  <p>Email: <a href="mailto:tiopdeng10@gmail.com">tiopdeng10@gmail.com</a></p>
+  <p>Phone: +251 937 189 841</p>
+  <p>Telegram/WhatsApp: +251 937 189 841</p>
+
+  <form>
+    <input type="text" placeholder="Your Name">
+    <input type="email" placeholder="Your Email">
+    <textarea placeholder="Your Message"></textarea>
+    <button type="submit">Send</button>
+  </form>
+</section>
+
+<footer>
+  <p>© 2025 TNS Label Records</p>
+</footer>
+
+</body>
+</html>
